@@ -17,11 +17,11 @@ var commentsRoutes   = require("./routes/comments"),
     authRoutes       = require("./routes/auth");
     
 
-//Local database
-mongoose.connect(process.env.DATABASEURL, { useNewUrlParser: true });
+var url = process.env.DATABASEURL || "mongodb://localhost:27017/yelp_camp_v2"
+mongoose.connect(url, { useNewUrlParser: true });
 
-//production database 
-//mongoose.connect('mongodb://Sam:Pin1512kys@ds035663.mlab.com:35663/yelp_camp', { useNewUrlParser: true });
+//Local database
+// mongoose.connect(process.env.DATABASEURL, { useNewUrlParser: true });
 
 
 mongodb://Sam:Pin1512kys>@ds035663.mlab.com:35663/yelp_camp
