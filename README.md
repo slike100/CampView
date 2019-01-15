@@ -1,6 +1,6 @@
 # CampView
 
-I created following during the Web Dev Boot Camp taught by Colt Steele. It is a "yelp" like site used to rate and show various campgrounds. Users can create an account, edit, create, delete, and comments on campgrounds. The purpose of creating this app was to understand the full lifecylce of developing and deploying a site. 
+I created following during the Web Dev Boot Camp taught by Colt Steele. It is a "yelp" like site used to rate and show various campgrounds. Users can create an account, edit, create, delete, and comments on campgrounds. The purpose of creating this app was to understand the full life cylce of developing and deploying a site. 
 <br> 
 <br>
 New functionality and UI/UX will be added moving forward to increase the complexity and usefulness of the app. 
