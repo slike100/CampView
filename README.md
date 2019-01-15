@@ -6,6 +6,7 @@ I created following during the Web Dev Boot Camp taught by Colt Steele. It is a 
 New functionality and UI/UX will be added moving forward to increase the complexity and usefulness of the app. 
 
 <strong>Tech/framework used</strong>
+<br>
 -Node.js
 <br>
 -Express
